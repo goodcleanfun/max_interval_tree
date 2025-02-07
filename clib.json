@@ -1,6 +1,6 @@
 {
     "name": "max_interval_tree",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "repo": "goodcleanfun/max_interval_tree",
     "description": "Max-interval tree finds for a set of weighted intervals and a given query key, the max weight for the interval containing that key (and the interval itself) as well as maintaining a constant-time global maximum.",
     "keywords": [],
